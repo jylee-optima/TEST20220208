@@ -1,0 +1,10 @@
+D:\GD\Source\TestSource\TestBindings\TestGrid\bin\Debug\TestGrid.exe.config
+D:\GD\Source\TestSource\TestBindings\TestGrid\bin\Debug\TestGrid.exe
+D:\GD\Source\TestSource\TestBindings\TestGrid\bin\Debug\TestGrid.pdb
+D:\GD\Source\TestSource\TestBindings\TestGrid\obj\Debug\TestGrid.csprojAssemblyReference.cache
+D:\GD\Source\TestSource\TestBindings\TestGrid\obj\Debug\TestGrid.Form1.resources
+D:\GD\Source\TestSource\TestBindings\TestGrid\obj\Debug\TestGrid.Properties.Resources.resources
+D:\GD\Source\TestSource\TestBindings\TestGrid\obj\Debug\TestGrid.csproj.GenerateResource.cache
+D:\GD\Source\TestSource\TestBindings\TestGrid\obj\Debug\TestGrid.csproj.CoreCompileInputs.cache
+D:\GD\Source\TestSource\TestBindings\TestGrid\obj\Debug\TestGrid.exe
+D:\GD\Source\TestSource\TestBindings\TestGrid\obj\Debug\TestGrid.pdb

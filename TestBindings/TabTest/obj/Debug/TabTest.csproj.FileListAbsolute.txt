@@ -1,0 +1,11 @@
+D:\GD\Source\TestSource\TestBindings\TabTest\bin\Debug\TabTest.exe.config
+D:\GD\Source\TestSource\TestBindings\TabTest\bin\Debug\TabTest.exe
+D:\GD\Source\TestSource\TestBindings\TabTest\bin\Debug\TabTest.pdb
+D:\GD\Source\TestSource\TestBindings\TabTest\obj\Debug\TabTest.csprojAssemblyReference.cache
+D:\GD\Source\TestSource\TestBindings\TabTest\obj\Debug\TabTest.Form1.resources
+D:\GD\Source\TestSource\TestBindings\TabTest\obj\Debug\TabTest.Properties.Resources.resources
+D:\GD\Source\TestSource\TestBindings\TabTest\obj\Debug\TabTest.csproj.GenerateResource.cache
+D:\GD\Source\TestSource\TestBindings\TabTest\obj\Debug\TabTest.csproj.CoreCompileInputs.cache
+D:\GD\Source\TestSource\TestBindings\TabTest\obj\Debug\TabTest.exe
+D:\GD\Source\TestSource\TestBindings\TabTest\obj\Debug\TabTest.pdb
+D:\GD\Source\TestSource\TestBindings\TabTest\obj\Debug\TabTest.Form2.resources

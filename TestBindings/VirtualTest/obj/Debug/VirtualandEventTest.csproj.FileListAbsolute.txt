@@ -1,0 +1,7 @@
+D:\GD\Source\TestSource\TestBindings\VirtualTest\obj\Debug\VirtualandEventTest.csprojAssemblyReference.cache
+D:\GD\Source\TestSource\TestBindings\VirtualTest\obj\Debug\VirtualTest.Form1.resources
+D:\GD\Source\TestSource\TestBindings\VirtualTest\obj\Debug\VirtualTest.Properties.Resources.resources
+D:\GD\Source\TestSource\TestBindings\VirtualTest\obj\Debug\VirtualandEventTest.csproj.GenerateResource.cache
+D:\GD\Source\TestSource\TestBindings\VirtualTest\obj\Debug\VirtualandEventTest.csproj.CoreCompileInputs.cache
+D:\GD\Source\TestSource\TestBindings\VirtualTest\obj\Debug\VirtualTest.exe
+D:\GD\Source\TestSource\TestBindings\VirtualTest\obj\Debug\VirtualTest.pdb

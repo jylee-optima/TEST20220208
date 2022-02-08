@@ -1,0 +1,10 @@
+D:\GD\Source\TestSource\TestBindings\TestBindings\bin\Debug\TestBindings.exe.config
+D:\GD\Source\TestSource\TestBindings\TestBindings\bin\Debug\TestBindings.exe
+D:\GD\Source\TestSource\TestBindings\TestBindings\bin\Debug\TestBindings.pdb
+D:\GD\Source\TestSource\TestBindings\TestBindings\obj\Debug\TestBindings.csprojAssemblyReference.cache
+D:\GD\Source\TestSource\TestBindings\TestBindings\obj\Debug\TestBindings.Form1.resources
+D:\GD\Source\TestSource\TestBindings\TestBindings\obj\Debug\TestBindings.Properties.Resources.resources
+D:\GD\Source\TestSource\TestBindings\TestBindings\obj\Debug\TestBindings.csproj.GenerateResource.cache
+D:\GD\Source\TestSource\TestBindings\TestBindings\obj\Debug\TestBindings.csproj.CoreCompileInputs.cache
+D:\GD\Source\TestSource\TestBindings\TestBindings\obj\Debug\TestBindings.exe
+D:\GD\Source\TestSource\TestBindings\TestBindings\obj\Debug\TestBindings.pdb
