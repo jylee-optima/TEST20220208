@@ -1,2 +1,3 @@
 # ignore folder
-/TestBindings/.vs/TestBindings/v15/Server/sqlite3/
+# Visual Studio 2015 cache/options directory
+.vs/
