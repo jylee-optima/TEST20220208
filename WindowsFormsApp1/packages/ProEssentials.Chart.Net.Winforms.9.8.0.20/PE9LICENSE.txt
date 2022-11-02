@@ -1,0 +1,88 @@
+Software License: GigaSoft ProEssentials v9
+
+SINGLE USER SOFTWARE LICENSE BY GIGASOFT, INC.
+THIS IS A SINGLE USER SOFTWARE LICENSE granted by 
+Gigasoft, Inc.  This Software is owned by and remains the property of 
+Gigasoft, Inc., is protected by United States copyright law and 
+international treaty provisions, and is transferred to the original 
+purchaser and any subsequent owner of the Software media for their 
+use only on the license terms set forth below.
+
+Gigasoft grants the original purchaser (Licensee) the limited rights 
+to possess and use the Gigasoft Software and Electronic User Manual for 
+its intended purposes. Licensee may use the ProEssentials v9 software 
+for as long as needed provided they do not violate the copyright and 
+follow these rules. Licensee agrees that the Software will be used 
+solely for Licensee’s internal purposes.  Licensee may make no more 
+than two (2) copies of the licensed software for back-up purposes 
+and all such copies, together with the original, must be kept in 
+Licensee’s possession or control.  The back-up copy must display 
+all proprietary notices, and be labeled externally to show that the 
+back-up copy is the property of Gigasoft, and that use is subject to 
+this license.  Licensee may transfer its rights under this License 
+provided that the party to whom such rights are transferred agrees 
+to the terms and conditions of this License, and written notice is 
+provided to Gigasoft.  Upon such transfer, Licensee must transfer or 
+destroy all copies of the Software. Licensee may not make any changes 
+or modification to the licensed software, and Licensee may not 
+decompile, disassemble, or otherwise reverse engineer the software. 
+Licensee may not rent or lease it to others.
+
+When distributing applications which implement the ProEssentials Software, 
+only the following files are permitted to be redistributed: 
+Gigasoft.ProEssentials.Dll, Gigasoft.ProEssentialsWeb.Dll, PEGRP32G.DLL, 
+PEGRP64G.DLL, PEGRPG.DLL, PE3DOG.OCX, PEGOG.OCX, 
+PESGOG.OCX, PEPSOG.OCX, PEPCOG.OCX, and PEDO.OCX.  
+Gigasoft grants the licensee a nonexclusive royalty-free right to reproduce 
+and distribute the above mentioned files.  If Licensee redistributes the 
+above files, the licensee must 1) distribute the above files only in 
+conjunction with and as part of Licensee’s software application product 
+where ProEssentials adds significant functionality; 2) the software application 
+ProEssentials is being added to must not provide presentation charting graphics 
+from generic data; 3) include a copyright notice of Licensee’s name on 
+software product; 4) agree to indemnify, hold harmless, and defend Gigasoft
+from and against any claims or lawsuits, including attorneys fees, that arise
+or result from the use or distribution of Licensee’s software application 
+product; 5) Licensee may install software onto one development system, one 
+test system, and one production server; and 6) when installing above files 
+onto more than one internet or intranet production and test server to 
+produce server based dynamic content, additional run time licenses are 
+required per pc.
+
+DISCLAIMER
+LICENSE FEES FOR THE SOFTWARE DO NOT INCLUDE ANY 
+CONSIDERATIONS FOR ASSUMPTION OF RISK BY GIGASOFT, AND 
+GIGASOFT DISCLAIMS ANY AND ALL LIABILITY FOR INCIDENTAL OR 
+CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR OPERATION 
+OR INABILITY OT USE THE SOFTWARE,  EVEN IF ANY OF THESE 
+PARTIES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+FURTHERMORE, LICENSEE INDEMNIFIES AND AGREES TO HOLD 
+GIGASOFT HARMLESS FROM SUCH CLAIMS.  THE ENTIRE RISK AS TO 
+THE RESULTS AND PERFORMANCE OF THE SOFTWARE IS ASSUMED BY 
+THE LICENSEE.  THE WARRANTIES EXPRESSED IN THIS LICENSE ARE 
+THE ONLY WARRANTIES MADE BY GIGASOFT AND ARE IN LIEU OF ALL 
+OTHER WARRANTIES, EXPRESSED OR IMPLIED, INCLUDING BUT NOT 
+LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY AND OF 
+FITNESS FOR A PARTICULAR PURPOSE.  THIS WARRANTY GRANTS  
+SPECIFIED LEGAL RIGHTS, AND LICENSEE MAY ALSO HAVE OTHER 
+RIGHTS WHICH VARY FROM JURISDICTION  TO JURISDICTION.  SOME 
+JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF 
+WARRANTIES, SO THE ABOVE LIMITATIONS OR EXCLUSIONS MAY NOT 
+APPLY TO LICENSEE.
+
+U.S. GOVERNMENT RESTRICTED RIGHTS
+The Software and documentation are provided with restricted rights.  Use, 
+duplication, or disclosure by the Government is subject to restrictions as set 
+fourth in subparagraph (c) (1) (ii) of the Rights in Technical Data and Computer 
+Software clause at DFARS 252.227-7013 or subparagraph (c) (1) and (2) of the 
+Commercial Computer Software-Restricted Rights at 48 CFR 52.227-19, as 
+applicable.  Manufacturer is Gigasoft, Inc. Keller, TX  76248.
+
+This license is the complete and exclusive statement of the parties agreement.  
+Should any provision of this License be held to be invalid by any court of 
+competent jurisdiction, that provision will be enforced to the maximum extent 
+permissible, and the remainder of the License shall nonetheless remain in full 
+force and effect.  This License shall be controlled by the laws of the State of 
+Texas, and the United States of America.
+
+COPYRIGHT 1994-2022 BY GIGASOFT, INC. ALL RIGHTS RESERVED

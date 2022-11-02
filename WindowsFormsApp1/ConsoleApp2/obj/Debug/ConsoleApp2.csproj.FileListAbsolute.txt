@@ -1,0 +1,7 @@
+D:\GD\Source\TEST20220208\WindowsFormsApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+D:\GD\Source\TEST20220208\WindowsFormsApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+D:\GD\Source\TEST20220208\WindowsFormsApp1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+D:\GD\Source\TEST20220208\WindowsFormsApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+D:\GD\Source\TEST20220208\WindowsFormsApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\GD\Source\TEST20220208\WindowsFormsApp1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+D:\GD\Source\TEST20220208\WindowsFormsApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FileList>
+	<File Reference = "Gigasoft.ProEssentials.dll">
+		<ContainsControls>True</ContainsControls>
+		<ToolboxItems UIFramework="WinForms" VSCategory="ProEssentials" BlendCategory="ProEssentials">
+			<Item Type="Gigasoft.ProEssentials.Pego" />
+			<Item Type="Gigasoft.ProEssentials.Pesgo" />
+			<Item Type="Gigasoft.ProEssentials.Pe3do" />
+			<Item Type="Gigasoft.ProEssentials.Pepso" />
+			<Item Type="Gigasoft.ProEssentials.Pepco" />
+		</ToolboxItems>
+	</File>
+</FileL
