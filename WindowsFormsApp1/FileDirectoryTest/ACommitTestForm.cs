@@ -17,7 +17,7 @@ namespace FileDirectoryTest
             InitializeComponent();
 
             //1
-            //2
+            //2 :main
             //3
             //4
             //5
