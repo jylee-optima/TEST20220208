@@ -1,0 +1,10 @@
+D:\GD\Source\TEST20220208\WindowsFormsApp1\FileDirectoryTest\bin\Debug\FileDirectoryTest.exe.config
+D:\GD\Source\TEST20220208\WindowsFormsApp1\FileDirectoryTest\bin\Debug\FileDirectoryTest.exe
+D:\GD\Source\TEST20220208\WindowsFormsApp1\FileDirectoryTest\bin\Debug\FileDirectoryTest.pdb
+D:\GD\Source\TEST20220208\WindowsFormsApp1\FileDirectoryTest\obj\Debug\FileDirectoryTest.csprojAssemblyReference.cache
+D:\GD\Source\TEST20220208\WindowsFormsApp1\FileDirectoryTest\obj\Debug\FileDirectoryTest.Form1.resources
+D:\GD\Source\TEST20220208\WindowsFormsApp1\FileDirectoryTest\obj\Debug\FileDirectoryTest.Properties.Resources.resources
+D:\GD\Source\TEST20220208\WindowsFormsApp1\FileDirectoryTest\obj\Debug\FileDirectoryTest.csproj.GenerateResource.cache
+D:\GD\Source\TEST20220208\WindowsFormsApp1\FileDirectoryTest\obj\Debug\FileDirectoryTest.csproj.CoreCompileInputs.cache
+D:\GD\Source\TEST20220208\WindowsFormsApp1\FileDirectoryTest\obj\Debug\FileDirectoryTest.exe
+D:\GD\Source\TEST20220208\WindowsFormsApp1\FileDirectoryTest\obj\Debug\FileDirectoryTest.pdb

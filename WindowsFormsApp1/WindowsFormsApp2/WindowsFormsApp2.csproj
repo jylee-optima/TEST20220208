@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="commTest">
+      <HintPath>..\commTest\bin\Debug\commTest.dll</HintPath>
+    </Reference>
     <Reference Include="Gigasoft.ProEssentials, Version=9.8.0.20, Culture=neutral, PublicKeyToken=38150f10c0d12be5, processorArchitecture=MSIL">
       <HintPath>..\packages\ProEssentials.Chart.Net.Winforms.9.8.0.20\lib\net40\Gigasoft.ProEssentials.dll</HintPath>
     </Reference>
@@ -73,12 +76,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TabTest2.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="TabTest2.Designer.cs">
-      <DependentUpon>TabTest2.cs</DependentUpon>
-    </Compile>
     <Compile Include="UserControl1.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -138,12 +135,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\ClassLibrary1.csproj">
-      <Project>{49365c23-4414-4b47-ac02-2f084af39b96}</Project>
-      <Name>ClassLibrary1</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Connected Services\" />

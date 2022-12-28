@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using System.Runtime.Serialization;
 using System.IO;
 using System.Runtime.CompilerServices;
+using commTest;
 
 namespace WindowsFormsApp2
 {
@@ -57,39 +58,78 @@ namespace WindowsFormsApp2
 
         private void button1_Click(object sender, EventArgs e)
         {
+            
 
-            string path = @"C:\AAA\abc.txt";
+            dataGridView1.ColumnCount = 2;
+            dataGridView1.Columns[0].Name = "컬럼1";
+            dataGridView1.Columns[1].Name = "컬럼2";
 
-            string test = Path.GetDirectoryName(path);
-            string test2 = Path.GetFileNameWithoutExtension(path);
+            List<string> list = new List<string>();
+            list.Add("AAA");
+            list.Add("BBB");
 
+            dataGridView1.DataSource = list;
 
-            using (OpenFileDialog openFile = new OpenFileDialog())
-            {
-                openFile.Multiselect = false;
-                openFile.Filter = "Recipe Files (*.rcp)|*.rcp";
-                openFile.CheckFileExists = true;
-                openFile.CheckPathExists = true;
+            //dataGridView1.Rows.Add("dddd");
+            //dataGridView1.Rows.Add("bbbb");
 
-                if (openFile.ShowDialog(this) != DialogResult.OK)
-                    return;
+            DataGridViewColumn column = dataGridView1.Columns[0];
+            column.Width = 1;
+            column = dataGridView1.Columns[1];
+            column.AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
 
-                
-                MessageBox.Show(openFile.SafeFileName);
+            return;
 
-            }
+            int a = -1;
+
+            MessageBox.Show( (a * -1).ToString());
 
             return;
 
 
-            ListViewItem a = new ListViewItem();
-            a.Text = "AAA";
+            Task.Run(async () =>
+            {
+
+                textBox2.Text = "A1";
+                await Task.Delay(5000);
+                textBox2.Text = "A2";
+                MessageBox.Show("text222");
+            }
+            );
+
+            //textBox2.Text = "B3";
+            MessageBox.Show("text");
+
+            //textBox2.Text = "B4";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            //ListViewItem a = new ListViewItem();
+            //a.Text = "AAA";
 
             ListViewItem b = new ListViewItem();
-            b.Text = "AAA";
+            b.Text = "BBB";
 
-            listView1.Items.Add(a);
-            listView1.Items.Add(b);
+            //listView1.Items.Add(a);
+            //listView1.Items.Add(b);
 
             return;
 
@@ -128,10 +168,18 @@ namespace WindowsFormsApp2
         private void listView1_SelectedIndexChanged(object sender, EventArgs e)
         {
 
+
         }
 
         private void button7_Click(object sender, EventArgs e)
         {
+
+            var Rnd = new Random();
+
+            var cnt = Rnd.Next(0, 2);
+
+            return;
+
             listView1.Items[0].Selected = true;
 
             var items = listView1.SelectedItems;
@@ -236,14 +284,82 @@ namespace WindowsFormsApp2
         {
             e.Cancel = true;
         }
+
+        private void listView1_ItemActivate(object sender, EventArgs e)
+        {
+
+        }
+
+        private void listView1_ItemSelectionChanged(object sender, ListViewItemSelectionChangedEventArgs e)
+        {
+
+        }
+
+        private void listView1_ItemCheck(object sender, ItemCheckEventArgs e)
+        {
+
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            listView1.Items[1].Selected = true;
+        }
+
+        private void dataGridView1_SelectionChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dataGridView1_RowEnter(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            People p1 = new People();
+            p1.PeopleName = "홍길동";
+
+            iPeople ip1 = p1;
+            MessageBox.Show(ip1.PeopleName);
+
+            p1 = new People();
+            p1.PeopleName = "임꺽정";
+            ip1 = p1;
+
+            MessageBox.Show(ip1.PeopleName);
+
+
+
+
+
+
+
+
+
+
+
+            dataGridView1.DataSource = null;
+        }
+
+        private void tabControl1_Selecting_1(object sender, TabControlCancelEventArgs e)
+        {
+
+        }
     }
 
 
+    public interface iPeople
+    {
+        string PeopleName { get; set; }
+    }
 
-
-    public class People
+    public class People : iPeople
     {
         public string PeopleName = "peoplename";
+
+        string iPeople.PeopleName { get => PeopleName; set => PeopleName = value; }
+
 
         public virtual void changePeopleName()
         {

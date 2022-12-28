@@ -1,0 +1,10 @@
+D:\GD\Source\TEST20220208\WindowsFormsApp1\StringTextTest\bin\Debug\StringTextTest.exe.config
+D:\GD\Source\TEST20220208\WindowsFormsApp1\StringTextTest\bin\Debug\StringTextTest.exe
+D:\GD\Source\TEST20220208\WindowsFormsApp1\StringTextTest\bin\Debug\StringTextTest.pdb
+D:\GD\Source\TEST20220208\WindowsFormsApp1\StringTextTest\obj\Debug\StringTextTest.csprojAssemblyReference.cache
+D:\GD\Source\TEST20220208\WindowsFormsApp1\StringTextTest\obj\Debug\StringTextTest.Form1.resources
+D:\GD\Source\TEST20220208\WindowsFormsApp1\StringTextTest\obj\Debug\StringTextTest.Properties.Resources.resources
+D:\GD\Source\TEST20220208\WindowsFormsApp1\StringTextTest\obj\Debug\StringTextTest.csproj.GenerateResource.cache
+D:\GD\Source\TEST20220208\WindowsFormsApp1\StringTextTest\obj\Debug\StringTextTest.csproj.CoreCompileInputs.cache
+D:\GD\Source\TEST20220208\WindowsFormsApp1\StringTextTest\obj\Debug\StringTextTest.exe
+D:\GD\Source\TEST20220208\WindowsFormsApp1\StringTextTest\obj\Debug\StringTextTest.pdb

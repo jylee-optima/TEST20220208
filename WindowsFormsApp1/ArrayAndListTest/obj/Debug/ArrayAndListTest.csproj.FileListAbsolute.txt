@@ -1,0 +1,10 @@
+D:\GD\Source\TEST20220208\WindowsFormsApp1\ArrayAndListTest\bin\Debug\ArrayAndListTest.exe.config
+D:\GD\Source\TEST20220208\WindowsFormsApp1\ArrayAndListTest\bin\Debug\ArrayAndListTest.exe
+D:\GD\Source\TEST20220208\WindowsFormsApp1\ArrayAndListTest\bin\Debug\ArrayAndListTest.pdb
+D:\GD\Source\TEST20220208\WindowsFormsApp1\ArrayAndListTest\obj\Debug\ArrayAndListTest.csprojAssemblyReference.cache
+D:\GD\Source\TEST20220208\WindowsFormsApp1\ArrayAndListTest\obj\Debug\ArrayAndListTest.Form1.resources
+D:\GD\Source\TEST20220208\WindowsFormsApp1\ArrayAndListTest\obj\Debug\ArrayAndListTest.Properties.Resources.resources
+D:\GD\Source\TEST20220208\WindowsFormsApp1\ArrayAndListTest\obj\Debug\ArrayAndListTest.csproj.GenerateResource.cache
+D:\GD\Source\TEST20220208\WindowsFormsApp1\ArrayAndListTest\obj\Debug\ArrayAndListTest.csproj.CoreCompileInputs.cache
+D:\GD\Source\TEST20220208\WindowsFormsApp1\ArrayAndListTest\obj\Debug\ArrayAndListTest.exe
+D:\GD\Source\TEST20220208\WindowsFormsApp1\ArrayAndListTest\obj\Debug\ArrayAndListTest.pdb

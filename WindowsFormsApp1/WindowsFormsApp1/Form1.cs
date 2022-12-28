@@ -391,8 +391,8 @@ namespace WindowsFormsApp1
         {
             pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
 
-            dataGridView1.Rows.Add("dddd");
-            dataGridView1.Rows.Add("bbbb");
+            //dataGridView1.Rows.Add("dddd");
+            //dataGridView1.Rows.Add("bbbb");
 
         }
 
@@ -450,10 +450,10 @@ namespace WindowsFormsApp1
 
         private void dataGridView1_SelectionChanged_1(object sender, EventArgs e)
         {
-            if (dataGridView1.SelectedRows.Count > 0)
-            {
-                var index = dataGridView1.SelectedRows[0].Index;
-            }
+            //if (dataGridView1.SelectedRows.Count > 0)
+            //{
+            //    var index = dataGridView1.SelectedRows[0].Index;
+            //}
             
 
 
@@ -665,7 +665,7 @@ namespace WindowsFormsApp1
             }
 
 
-            dataGridView1.CurrentCell = dataGridView1.Rows[2].Cells[0];
+            //dataGridView1.CurrentCell = dataGridView1.Rows[2].Cells[0];
             //tableLayoutPanel1.ColumnCount = 2;
             button11.Visible = false;
             //tableLayoutPanel1.Controls.Add(button5);
@@ -777,7 +777,7 @@ namespace WindowsFormsApp1
             }
             else
             {
-                dataGridView1.Rows.Add();
+                //dataGridView1.Rows.Add();
             }
             
         }

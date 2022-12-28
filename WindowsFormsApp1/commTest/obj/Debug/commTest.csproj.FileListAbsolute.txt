@@ -1,0 +1,6 @@
+D:\GD\Source\TEST20220208\WindowsFormsApp1\commTest\bin\Debug\commTest.dll
+D:\GD\Source\TEST20220208\WindowsFormsApp1\commTest\bin\Debug\commTest.pdb
+D:\GD\Source\TEST20220208\WindowsFormsApp1\commTest\obj\Debug\commTest.csprojAssemblyReference.cache
+D:\GD\Source\TEST20220208\WindowsFormsApp1\commTest\obj\Debug\commTest.csproj.CoreCompileInputs.cache
+D:\GD\Source\TEST20220208\WindowsFormsApp1\commTest\obj\Debug\commTest.dll
+D:\GD\Source\TEST20220208\WindowsFormsApp1\commTest\obj\Debug\commTest.pdb
